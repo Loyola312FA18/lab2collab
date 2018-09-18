@@ -1,5 +1,5 @@
 public class Hectagon extends Polygon 
-{
+i{
   public Hectagon(String color, int sideLength)
   {
     super(color, name, numOfSides, sideLength);

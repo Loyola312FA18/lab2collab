@@ -1,3 +1,8 @@
+/**
+ *This is our code! Its goal is to represent a Right Triangle
+ *@author Matt Kinloch, Jeffrey Umanzor, Thomas Anderson
+ *@version 1.0 9/18/2018
+ */
 public class RightTriangle extends Shape
 {
     double base;

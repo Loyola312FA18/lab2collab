@@ -23,7 +23,7 @@ public class Square extends RegularPolygon
 	}	
 
  	 @Override	
- 	 public double perimeter();
+ 	 public double perimeter()
 	{
 		return(4* sideLength);
 	} 

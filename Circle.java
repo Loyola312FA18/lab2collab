@@ -24,13 +24,14 @@ public class Circle extends Shape
     @Override
     public String toString()
     {
-      return "A " + color + " " + name + " area " + this.area();
+        return "A " + color + " " + name + " area " + this.area() 
+        + " circumference " + this.perimeter();
     }
 
     @Override
     public double perimeter()
     {
-        return 0;
+        return 2*(Math.PI)*radius;
     }
 
 }

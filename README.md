@@ -1,1 +1,1 @@
-# lab2collab
+# lab2-collaboration
